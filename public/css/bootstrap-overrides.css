@@ -1,0 +1,94 @@
+.hero-unit h1 {
+	font-family: 'Lato', serif;
+	color: #cf0713;
+	text-align: center;
+	font-size: 130px;
+	}
+
+.hero-unit {
+	margin-bottom: 20px;
+	padding-top: 20px;
+	padding-bottom: 0px;
+}	
+
+#map-canvas{
+	height:500px;
+}
+
+.coll {
+	text-align: center;
+}
+
+h1 {
+	display: inline-block;
+	text-align: center;
+}
+
+.main-header {
+	text-align: center;
+}
+
+footer {
+	background-color: #eeeeee;
+	width:100%;
+}
+
+.footer-head {
+	text-align: center;
+	color:red;
+	margin-bottom: 0px;
+}
+
+.footerspan {
+	text-align:center;
+}
+
+.foot {
+	margin: 0;
+	padding-top:5px;
+}
+
+.mainfoot {
+	margin-top: 20px;
+	padding-bottom: 20px;
+}
+
+.tel {
+	text-align: right;
+	padding: 10px 15px;
+}
+
+@font-face {
+	font-family: 'icomoon';
+	src:url('fonts/icomoon.eot?-jm85y6');
+	src:url('fonts/icomoon.eot?#iefix-jm85y6') format('embedded-opentype'),
+		url('fonts/icomoon.ttf?-jm85y6') format('truetype'),
+		url('fonts/icomoon.woff?-jm85y6') format('woff'),
+		url('fonts/icomoon.svg?-jm85y6#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class*="icon-"] {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-facebook:before {
+	content: "\e601";
+}
+.icon-twitter:before {
+	content: "\e602";
+}
+.icon-pinterest:before {
+	content: "\e603";
+}
