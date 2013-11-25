@@ -50,4 +50,8 @@ class RansomArt < Sinatra::Base
     erb :haring
   end
 
+  get '/consultancy' do
+    erb :consultancy
+  end
+
 end
