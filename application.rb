@@ -34,7 +34,7 @@ class RansomArt < Sinatra::Base
     erb :oneillvintage
   end
 
-  get '/terryoneillltded' do
+  get '/terryoneilllimited' do
     erb :oneilllimited
   end
 

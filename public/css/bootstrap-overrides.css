@@ -1,14 +1,16 @@
-.hero-unit h1 {
-	font-family: 'Lato', serif;
-	color: #cf0713;
-	text-align: center;
-	font-size: 130px;
-	}
+.thumbnail > img {
+	height: 300px;
+}
 
-.hero-unit {
+.thumbnail > a > img {
+	height: 300px;
+}
+
+.jumbotron {
 	margin-bottom: 20px;
 	padding-top: 20px;
 	padding-bottom: 0px;
+	font-size: 17px
 }
 
 li {
@@ -22,9 +24,14 @@ li {
 	padding-left:30px;
 }
 
-.navbar .divider-vertical {
+.navbar .divider {
 	color:#777777;
 	height:50px;
+}
+
+.navbar-default {
+	background-color: #eeeeee;
+	border-color: #eeeeee;
 }
 
 .contact {
@@ -94,6 +101,10 @@ p .social a{
 
 .tel {
 	float: right;
-	padding-right: 90px;
-	padding-top:8px;
+	padding-right: 30px;
+	padding-top: 6px;
+	padding-left: 234px;
+	color: #777777;
+	font-size: 18px;
+	font-weight: 200;
 }
