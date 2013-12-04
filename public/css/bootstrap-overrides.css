@@ -4,6 +4,9 @@
 
 .thumbnail > a > img {
 	height: 300px;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
 }
 
 .jumbotron {
@@ -61,6 +64,10 @@ h1 {
 
 .main-header {
 	text-align: center;
+	width:100%;
+}
+
+.main-header > a > img {
 	width:100%;
 }
 
