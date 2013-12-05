@@ -21,7 +21,6 @@ li {
 }
 
 .navbar {
-	/*margin-top: -48px;*/
 	display: inline-block;
 	margin-bottom:0;
 	padding-left:30px;
@@ -110,7 +109,7 @@ p .social a{
 	float: right;
 	padding-right: 30px;
 	padding-top: 6px;
-	padding-left: 234px;
+	padding-left: 204px;
 	color: #777777;
 	font-size: 18px;
 	font-weight: 200;
