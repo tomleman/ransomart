@@ -114,3 +114,20 @@ p .social a{
 	font-size: 18px;
 	font-weight: 200;
 }
+
+.modal-body > img {
+	width:100%;
+}
+
+@media only screen and (max-device-width: 767px) {
+
+	.navbar .divider {
+		display:none;
+	}
+
+	.navbar-toggle {
+		right:46px;
+		bottom:50px;
+	}
+
+	}
