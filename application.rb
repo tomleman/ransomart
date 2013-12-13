@@ -1,4 +1,5 @@
 require 'sinatra/base'
+require 'newrelic_rpm'
 
 class RansomArt < Sinatra::Base
 
