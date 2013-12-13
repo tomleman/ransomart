@@ -8,4 +8,5 @@ group :development do
   gem 'shotgun'
   gem 'minitest'
   gem 'rack-test'
+  gem 'newrelic_rpm'
 end
