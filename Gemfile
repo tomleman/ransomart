@@ -10,5 +10,13 @@ group :development do
   gem 'shotgun'
   gem 'minitest'
   gem 'rack-test'
+end
+
+group :production do
+  gem 'capybara'
+  gem 'rspec'
+  gem 'shotgun'
+  gem 'minitest'
+  gem 'rack-test'
   gem 'newrelic_rpm'
 end
