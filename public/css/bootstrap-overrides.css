@@ -119,7 +119,7 @@ p .social a{
 	width:100%;
 }
 
-@media only screen and (max-device-width: 767px) {
+@media (min-width: 1199px) {
 
 	.navbar .divider {
 		display:none;
