@@ -121,6 +121,10 @@ p .social a{
 	width:100%;
 }
 
+a > h3 {
+	text-align: center;
+}
+
 @media (max-width: 1199px) {
 
 	.navbar .divider {
@@ -134,7 +138,7 @@ p .social a{
 	}
 
 	.tel {
-		padding-left:0px;
+		padding-left:10px;
 	}
 
 	.main-header > a > img {

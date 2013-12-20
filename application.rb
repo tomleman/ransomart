@@ -55,4 +55,16 @@ class RansomArt < Sinatra::Base
     erb :consultancy
   end
 
+  get '/past' do
+    erb :past
+  end
+
+  get '/current' do
+    erb :current
+  end
+
+  get '/upcoming' do
+    erb :upcoming
+  end
+
 end
