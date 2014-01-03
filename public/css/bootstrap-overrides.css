@@ -14,7 +14,7 @@
 .jumbotron {
 	margin-bottom: 20px;
 	padding-top: 20px;
-	padding-bottom: 0px;
+	padding-bottom: 0;
 	font-size: 17px
 }
 
@@ -90,7 +90,7 @@ p .social a{
 .footer-head {
 	text-align: center;
 	color:red;
-	margin-bottom: 0px;
+	margin-bottom: 0;
 }
 
 .footerspan {
@@ -124,7 +124,7 @@ p .social a{
 a > h3 {
 	text-align: center;
 }
-
+	
 @media (max-width: 1199px) {
 
 	.navbar .divider {
@@ -133,8 +133,7 @@ a > h3 {
 
 	.navbar-toggle {
 		float:left;
-		right:46px;
-		bottom:50px;
+		right:30px;
 	}
 
 	.tel {
@@ -143,6 +142,15 @@ a > h3 {
 
 	.main-header > a > img {
 		padding-left:35px;
+	}
+	.navbar-header {
+		position: relative;
+		/*bottom: 60px;*/
+	}
+
+	.mobile-container {
+		position: relative;
+		bottom:65px;
 	}
 
 }
