@@ -43,7 +43,7 @@ li {
 }	
 
 #map-canvas{
-	height:500px;
+	width:500px;
 }
 
 .map {
@@ -182,6 +182,14 @@ a > h3 {
 
 	.thumbnail > img {
 		max-height: 230px;
+	}
+
+	.map {
+		display: none;
+	}
+
+	.details {
+		text-align: center;
 	}
 
 }
