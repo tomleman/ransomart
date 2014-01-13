@@ -196,7 +196,7 @@ a > h3 {
 		display: none;
 	}
 
-	.thumbnail > img {
+	.thumbnail > a > img {
 		max-height: 240px;
 	}
 
