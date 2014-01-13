@@ -146,9 +146,9 @@ a > h3 {
 		right:30px;
 	}*/
 
-	/*.tel {
-		padding-left:10px;
-	}*/
+	.tel {
+		padding-left:18px;
+	}
 
 	/*.navbar-header {
 		position: relative;
@@ -169,19 +169,20 @@ a > h3 {
 
 	.navbar-brand {
 		display: block;
-		max-width: 550px;
+		max-width: 75%;
 		position: relative;
+		top: 3px;
 	}
 
 	.mobile-head {
-		max-width: 550px;
+		max-width: 75%;
 		position: relative;
 		left: -40px;
 	}
 
 	.navbar-toggle {
 		position: relative;
-		top: 30px;
+		top: 15px;
 		margin: inherit;
 	}
 
