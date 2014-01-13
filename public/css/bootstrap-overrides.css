@@ -126,11 +126,6 @@ a > h3 {
 	text-align: center;
 }
 
-::selection{
-	background:#59abdb;
-	color:#fff;
-}
-
 .navbar-brand {
 	display:none;
 }
@@ -169,20 +164,20 @@ a > h3 {
 
 	.navbar-brand {
 		display: block;
-		max-width: 75%;
+		max-width: 90%;
 		position: relative;
 		top: 3px;
 	}
 
 	.mobile-head {
-		max-width: 75%;
+		max-width: 90%;
 		position: relative;
 		left: -40px;
 	}
 
 	.navbar-toggle {
 		position: relative;
-		top: 15px;
+		top: 21px;
 		margin: inherit;
 	}
 
