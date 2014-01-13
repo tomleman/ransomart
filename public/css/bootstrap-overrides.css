@@ -164,20 +164,21 @@ a > h3 {
 
 	.navbar-brand {
 		display: block;
-		max-width: 90%;
+		max-width: 94%;
 		position: relative;
-		top: 3px;
+		top: -3px;
+		left: -45px;
+		float: none;
 	}
 
 	.mobile-head {
-		max-width: 90%;
+		max-width: 94%;
 		position: relative;
-		left: -40px;
 	}
 
 	.navbar-toggle {
 		position: relative;
-		top: 21px;
+		top: 8px;
 		margin: inherit;
 	}
 
@@ -193,6 +194,10 @@ a > h3 {
 
 	.navbar-right {
 		display: none;
+	}
+
+	.thumbnail > img {
+		max-height: 240px;
 	}
 
 }
