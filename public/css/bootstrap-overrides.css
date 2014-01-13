@@ -25,7 +25,7 @@ li {
 .navbar {
 	display: inline-block;
 	margin-bottom:0;
-	padding-left:30px;
+	/*padding-left:30px;*/
 }
 
 .navbar .divider {
@@ -137,7 +137,21 @@ a > h3 {
 	}
 
 	.tel {
-		padding-left:18px;
+		padding: 0 0 0 5px;
+		position:relative;
+		top:-5px;
+	}
+
+	.mobile-container {
+		padding: 0;
+	}
+
+	.navbar-collapse {
+		padding: 0;
+	}
+
+	.nav > li > a {
+		padding: 10px 5px;
 	}
 
 }

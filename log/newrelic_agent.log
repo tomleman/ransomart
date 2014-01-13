@@ -5867,3 +5867,159 @@
 [01/13/14 15:11:19 +0000 Toms-MacBook-Air.local (36760)] INFO : Installing deferred Rack instrumentation
 [01/13/14 15:11:19 +0000 Toms-MacBook-Air.local (36760)] INFO : Finished instrumentation
 [01/13/14 15:11:19 +0000 Toms-MacBook-Air.local (36760)] INFO : Doing deferred dependency-detection before Rack startup
+[01/13/14 15:17:38 +0000 Toms-MacBook-Air.local (36826)] INFO : Starting the New Relic agent in "development" environment.
+[01/13/14 15:17:38 +0000 Toms-MacBook-Air.local (36826)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/13/14 15:17:38 +0000 Toms-MacBook-Air.local (36826)] INFO : Reading configuration from config/newrelic.yml
+[01/13/14 15:17:38 +0000 Toms-MacBook-Air.local (36826)] INFO : Enabling the Request Sampler.
+[01/13/14 15:17:38 +0000 Toms-MacBook-Air.local (36826)] INFO : Environment: development
+[01/13/14 15:17:38 +0000 Toms-MacBook-Air.local (36826)] INFO : Dispatcher: webrick
+[01/13/14 15:17:38 +0000 Toms-MacBook-Air.local (36826)] INFO : Application: Ransom Art
+[01/13/14 15:17:39 +0000 Toms-MacBook-Air.local (36826)] INFO : Installing Net instrumentation
+[01/13/14 15:17:39 +0000 Toms-MacBook-Air.local (36826)] INFO : Installing Sinatra instrumentation
+[01/13/14 15:17:39 +0000 Toms-MacBook-Air.local (36826)] INFO : Installing deferred Rack instrumentation
+[01/13/14 15:17:39 +0000 Toms-MacBook-Air.local (36826)] INFO : Finished instrumentation
+[01/13/14 15:17:39 +0000 Toms-MacBook-Air.local (36826)] INFO : Doing deferred dependency-detection before Rack startup
+[01/13/14 15:17:59 +0000 Toms-MacBook-Air.local (36842)] INFO : Starting the New Relic agent in "development" environment.
+[01/13/14 15:17:59 +0000 Toms-MacBook-Air.local (36842)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/13/14 15:17:59 +0000 Toms-MacBook-Air.local (36842)] INFO : Reading configuration from config/newrelic.yml
+[01/13/14 15:17:59 +0000 Toms-MacBook-Air.local (36842)] INFO : Enabling the Request Sampler.
+[01/13/14 15:17:59 +0000 Toms-MacBook-Air.local (36842)] INFO : Environment: development
+[01/13/14 15:17:59 +0000 Toms-MacBook-Air.local (36842)] INFO : Dispatcher: webrick
+[01/13/14 15:17:59 +0000 Toms-MacBook-Air.local (36842)] INFO : Application: Ransom Art
+[01/13/14 15:17:59 +0000 Toms-MacBook-Air.local (36842)] INFO : Installing Net instrumentation
+[01/13/14 15:17:59 +0000 Toms-MacBook-Air.local (36842)] INFO : Installing Sinatra instrumentation
+[01/13/14 15:17:59 +0000 Toms-MacBook-Air.local (36842)] INFO : Installing deferred Rack instrumentation
+[01/13/14 15:17:59 +0000 Toms-MacBook-Air.local (36842)] INFO : Finished instrumentation
+[01/13/14 15:17:59 +0000 Toms-MacBook-Air.local (36842)] INFO : Doing deferred dependency-detection before Rack startup
+[01/13/14 15:18:40 +0000 Toms-MacBook-Air.local (36860)] INFO : Starting the New Relic agent in "development" environment.
+[01/13/14 15:18:40 +0000 Toms-MacBook-Air.local (36860)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/13/14 15:18:40 +0000 Toms-MacBook-Air.local (36860)] INFO : Reading configuration from config/newrelic.yml
+[01/13/14 15:18:40 +0000 Toms-MacBook-Air.local (36860)] INFO : Enabling the Request Sampler.
+[01/13/14 15:18:40 +0000 Toms-MacBook-Air.local (36860)] INFO : Environment: development
+[01/13/14 15:18:40 +0000 Toms-MacBook-Air.local (36860)] INFO : Dispatcher: webrick
+[01/13/14 15:18:40 +0000 Toms-MacBook-Air.local (36860)] INFO : Application: Ransom Art
+[01/13/14 15:18:40 +0000 Toms-MacBook-Air.local (36860)] INFO : Installing Net instrumentation
+[01/13/14 15:18:40 +0000 Toms-MacBook-Air.local (36860)] INFO : Installing Sinatra instrumentation
+[01/13/14 15:18:40 +0000 Toms-MacBook-Air.local (36860)] INFO : Installing deferred Rack instrumentation
+[01/13/14 15:18:40 +0000 Toms-MacBook-Air.local (36860)] INFO : Finished instrumentation
+[01/13/14 15:18:40 +0000 Toms-MacBook-Air.local (36860)] INFO : Doing deferred dependency-detection before Rack startup
+[01/13/14 15:19:28 +0000 Toms-MacBook-Air.local (36887)] INFO : Starting the New Relic agent in "development" environment.
+[01/13/14 15:19:28 +0000 Toms-MacBook-Air.local (36887)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/13/14 15:19:28 +0000 Toms-MacBook-Air.local (36887)] INFO : Reading configuration from config/newrelic.yml
+[01/13/14 15:19:28 +0000 Toms-MacBook-Air.local (36887)] INFO : Enabling the Request Sampler.
+[01/13/14 15:19:28 +0000 Toms-MacBook-Air.local (36887)] INFO : Environment: development
+[01/13/14 15:19:28 +0000 Toms-MacBook-Air.local (36887)] INFO : Dispatcher: webrick
+[01/13/14 15:19:28 +0000 Toms-MacBook-Air.local (36887)] INFO : Application: Ransom Art
+[01/13/14 15:19:28 +0000 Toms-MacBook-Air.local (36887)] INFO : Installing Net instrumentation
+[01/13/14 15:19:28 +0000 Toms-MacBook-Air.local (36887)] INFO : Installing Sinatra instrumentation
+[01/13/14 15:19:28 +0000 Toms-MacBook-Air.local (36887)] INFO : Installing deferred Rack instrumentation
+[01/13/14 15:19:28 +0000 Toms-MacBook-Air.local (36887)] INFO : Finished instrumentation
+[01/13/14 15:19:28 +0000 Toms-MacBook-Air.local (36887)] INFO : Doing deferred dependency-detection before Rack startup
+[01/13/14 15:20:28 +0000 Toms-MacBook-Air.local (37188)] INFO : Starting the New Relic agent in "development" environment.
+[01/13/14 15:20:28 +0000 Toms-MacBook-Air.local (37188)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/13/14 15:20:28 +0000 Toms-MacBook-Air.local (37188)] INFO : Reading configuration from config/newrelic.yml
+[01/13/14 15:20:28 +0000 Toms-MacBook-Air.local (37188)] INFO : Enabling the Request Sampler.
+[01/13/14 15:20:28 +0000 Toms-MacBook-Air.local (37188)] INFO : Environment: development
+[01/13/14 15:20:28 +0000 Toms-MacBook-Air.local (37188)] INFO : Dispatcher: webrick
+[01/13/14 15:20:28 +0000 Toms-MacBook-Air.local (37188)] INFO : Application: Ransom Art
+[01/13/14 15:20:28 +0000 Toms-MacBook-Air.local (37188)] INFO : Installing Net instrumentation
+[01/13/14 15:20:29 +0000 Toms-MacBook-Air.local (37188)] INFO : Installing Sinatra instrumentation
+[01/13/14 15:20:29 +0000 Toms-MacBook-Air.local (37188)] INFO : Installing deferred Rack instrumentation
+[01/13/14 15:20:29 +0000 Toms-MacBook-Air.local (37188)] INFO : Finished instrumentation
+[01/13/14 15:20:29 +0000 Toms-MacBook-Air.local (37188)] INFO : Doing deferred dependency-detection before Rack startup
+[01/13/14 15:21:26 +0000 Toms-MacBook-Air.local (37200)] INFO : Starting the New Relic agent in "development" environment.
+[01/13/14 15:21:26 +0000 Toms-MacBook-Air.local (37200)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/13/14 15:21:26 +0000 Toms-MacBook-Air.local (37200)] INFO : Reading configuration from config/newrelic.yml
+[01/13/14 15:21:26 +0000 Toms-MacBook-Air.local (37200)] INFO : Enabling the Request Sampler.
+[01/13/14 15:21:26 +0000 Toms-MacBook-Air.local (37200)] INFO : Environment: development
+[01/13/14 15:21:26 +0000 Toms-MacBook-Air.local (37200)] INFO : Dispatcher: webrick
+[01/13/14 15:21:26 +0000 Toms-MacBook-Air.local (37200)] INFO : Application: Ransom Art
+[01/13/14 15:21:26 +0000 Toms-MacBook-Air.local (37200)] INFO : Installing Net instrumentation
+[01/13/14 15:21:26 +0000 Toms-MacBook-Air.local (37200)] INFO : Installing Sinatra instrumentation
+[01/13/14 15:21:26 +0000 Toms-MacBook-Air.local (37200)] INFO : Installing deferred Rack instrumentation
+[01/13/14 15:21:26 +0000 Toms-MacBook-Air.local (37200)] INFO : Finished instrumentation
+[01/13/14 15:21:26 +0000 Toms-MacBook-Air.local (37200)] INFO : Doing deferred dependency-detection before Rack startup
+[01/13/14 15:22:07 +0000 Toms-MacBook-Air.local (37215)] INFO : Starting the New Relic agent in "development" environment.
+[01/13/14 15:22:07 +0000 Toms-MacBook-Air.local (37215)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/13/14 15:22:07 +0000 Toms-MacBook-Air.local (37215)] INFO : Reading configuration from config/newrelic.yml
+[01/13/14 15:22:07 +0000 Toms-MacBook-Air.local (37215)] INFO : Enabling the Request Sampler.
+[01/13/14 15:22:07 +0000 Toms-MacBook-Air.local (37215)] INFO : Environment: development
+[01/13/14 15:22:07 +0000 Toms-MacBook-Air.local (37215)] INFO : Dispatcher: webrick
+[01/13/14 15:22:07 +0000 Toms-MacBook-Air.local (37215)] INFO : Application: Ransom Art
+[01/13/14 15:22:07 +0000 Toms-MacBook-Air.local (37215)] INFO : Installing Net instrumentation
+[01/13/14 15:22:07 +0000 Toms-MacBook-Air.local (37215)] INFO : Installing Sinatra instrumentation
+[01/13/14 15:22:07 +0000 Toms-MacBook-Air.local (37215)] INFO : Installing deferred Rack instrumentation
+[01/13/14 15:22:07 +0000 Toms-MacBook-Air.local (37215)] INFO : Finished instrumentation
+[01/13/14 15:22:07 +0000 Toms-MacBook-Air.local (37215)] INFO : Doing deferred dependency-detection before Rack startup
+[01/13/14 15:22:09 +0000 Toms-MacBook-Air.local (37222)] INFO : Starting the New Relic agent in "development" environment.
+[01/13/14 15:22:09 +0000 Toms-MacBook-Air.local (37222)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/13/14 15:22:09 +0000 Toms-MacBook-Air.local (37222)] INFO : Reading configuration from config/newrelic.yml
+[01/13/14 15:22:09 +0000 Toms-MacBook-Air.local (37222)] INFO : Enabling the Request Sampler.
+[01/13/14 15:22:09 +0000 Toms-MacBook-Air.local (37222)] INFO : Environment: development
+[01/13/14 15:22:09 +0000 Toms-MacBook-Air.local (37222)] INFO : Dispatcher: webrick
+[01/13/14 15:22:09 +0000 Toms-MacBook-Air.local (37222)] INFO : Application: Ransom Art
+[01/13/14 15:22:09 +0000 Toms-MacBook-Air.local (37222)] INFO : Installing Net instrumentation
+[01/13/14 15:22:09 +0000 Toms-MacBook-Air.local (37222)] INFO : Installing Sinatra instrumentation
+[01/13/14 15:22:09 +0000 Toms-MacBook-Air.local (37222)] INFO : Installing deferred Rack instrumentation
+[01/13/14 15:22:09 +0000 Toms-MacBook-Air.local (37222)] INFO : Finished instrumentation
+[01/13/14 15:22:09 +0000 Toms-MacBook-Air.local (37222)] INFO : Doing deferred dependency-detection before Rack startup
+[01/13/14 15:22:58 +0000 Toms-MacBook-Air.local (37248)] INFO : Starting the New Relic agent in "development" environment.
+[01/13/14 15:22:58 +0000 Toms-MacBook-Air.local (37248)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/13/14 15:22:58 +0000 Toms-MacBook-Air.local (37248)] INFO : Reading configuration from config/newrelic.yml
+[01/13/14 15:22:58 +0000 Toms-MacBook-Air.local (37248)] INFO : Enabling the Request Sampler.
+[01/13/14 15:22:58 +0000 Toms-MacBook-Air.local (37248)] INFO : Environment: development
+[01/13/14 15:22:58 +0000 Toms-MacBook-Air.local (37248)] INFO : Dispatcher: webrick
+[01/13/14 15:22:58 +0000 Toms-MacBook-Air.local (37248)] INFO : Application: Ransom Art
+[01/13/14 15:22:58 +0000 Toms-MacBook-Air.local (37248)] INFO : Installing Net instrumentation
+[01/13/14 15:22:58 +0000 Toms-MacBook-Air.local (37248)] INFO : Installing Sinatra instrumentation
+[01/13/14 15:22:58 +0000 Toms-MacBook-Air.local (37248)] INFO : Installing deferred Rack instrumentation
+[01/13/14 15:22:58 +0000 Toms-MacBook-Air.local (37248)] INFO : Finished instrumentation
+[01/13/14 15:22:58 +0000 Toms-MacBook-Air.local (37248)] INFO : Doing deferred dependency-detection before Rack startup
+[01/13/14 15:25:11 +0000 Toms-MacBook-Air.local (37281)] INFO : Starting the New Relic agent in "development" environment.
+[01/13/14 15:25:11 +0000 Toms-MacBook-Air.local (37281)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/13/14 15:25:11 +0000 Toms-MacBook-Air.local (37281)] INFO : Reading configuration from config/newrelic.yml
+[01/13/14 15:25:11 +0000 Toms-MacBook-Air.local (37281)] INFO : Enabling the Request Sampler.
+[01/13/14 15:25:11 +0000 Toms-MacBook-Air.local (37281)] INFO : Environment: development
+[01/13/14 15:25:11 +0000 Toms-MacBook-Air.local (37281)] INFO : Dispatcher: webrick
+[01/13/14 15:25:11 +0000 Toms-MacBook-Air.local (37281)] INFO : Application: Ransom Art
+[01/13/14 15:25:11 +0000 Toms-MacBook-Air.local (37281)] INFO : Installing Net instrumentation
+[01/13/14 15:25:11 +0000 Toms-MacBook-Air.local (37281)] INFO : Installing Sinatra instrumentation
+[01/13/14 15:25:11 +0000 Toms-MacBook-Air.local (37281)] INFO : Installing deferred Rack instrumentation
+[01/13/14 15:25:11 +0000 Toms-MacBook-Air.local (37281)] INFO : Finished instrumentation
+[01/13/14 15:25:11 +0000 Toms-MacBook-Air.local (37281)] INFO : Doing deferred dependency-detection before Rack startup
+[01/13/14 15:27:50 +0000 Toms-MacBook-Air.local (37308)] INFO : Starting the New Relic agent in "development" environment.
+[01/13/14 15:27:50 +0000 Toms-MacBook-Air.local (37308)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/13/14 15:27:50 +0000 Toms-MacBook-Air.local (37308)] INFO : Reading configuration from config/newrelic.yml
+[01/13/14 15:27:50 +0000 Toms-MacBook-Air.local (37308)] INFO : Enabling the Request Sampler.
+[01/13/14 15:27:50 +0000 Toms-MacBook-Air.local (37308)] INFO : Environment: development
+[01/13/14 15:27:50 +0000 Toms-MacBook-Air.local (37308)] INFO : Dispatcher: webrick
+[01/13/14 15:27:50 +0000 Toms-MacBook-Air.local (37308)] INFO : Application: Ransom Art
+[01/13/14 15:27:50 +0000 Toms-MacBook-Air.local (37308)] INFO : Installing Net instrumentation
+[01/13/14 15:27:50 +0000 Toms-MacBook-Air.local (37308)] INFO : Installing Sinatra instrumentation
+[01/13/14 15:27:50 +0000 Toms-MacBook-Air.local (37308)] INFO : Installing deferred Rack instrumentation
+[01/13/14 15:27:50 +0000 Toms-MacBook-Air.local (37308)] INFO : Finished instrumentation
+[01/13/14 15:27:50 +0000 Toms-MacBook-Air.local (37308)] INFO : Doing deferred dependency-detection before Rack startup
+[01/13/14 15:28:14 +0000 Toms-MacBook-Air.local (37322)] INFO : Starting the New Relic agent in "development" environment.
+[01/13/14 15:28:14 +0000 Toms-MacBook-Air.local (37322)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/13/14 15:28:14 +0000 Toms-MacBook-Air.local (37322)] INFO : Reading configuration from config/newrelic.yml
+[01/13/14 15:28:14 +0000 Toms-MacBook-Air.local (37322)] INFO : Enabling the Request Sampler.
+[01/13/14 15:28:14 +0000 Toms-MacBook-Air.local (37322)] INFO : Environment: development
+[01/13/14 15:28:14 +0000 Toms-MacBook-Air.local (37322)] INFO : Dispatcher: webrick
+[01/13/14 15:28:14 +0000 Toms-MacBook-Air.local (37322)] INFO : Application: Ransom Art
+[01/13/14 15:28:14 +0000 Toms-MacBook-Air.local (37322)] INFO : Installing Net instrumentation
+[01/13/14 15:28:14 +0000 Toms-MacBook-Air.local (37322)] INFO : Installing Sinatra instrumentation
+[01/13/14 15:28:14 +0000 Toms-MacBook-Air.local (37322)] INFO : Installing deferred Rack instrumentation
+[01/13/14 15:28:14 +0000 Toms-MacBook-Air.local (37322)] INFO : Finished instrumentation
+[01/13/14 15:28:14 +0000 Toms-MacBook-Air.local (37322)] INFO : Doing deferred dependency-detection before Rack startup
+[01/13/14 15:28:20 +0000 Toms-MacBook-Air.local (37333)] INFO : Starting the New Relic agent in "development" environment.
+[01/13/14 15:28:20 +0000 Toms-MacBook-Air.local (37333)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/13/14 15:28:20 +0000 Toms-MacBook-Air.local (37333)] INFO : Reading configuration from config/newrelic.yml
+[01/13/14 15:28:20 +0000 Toms-MacBook-Air.local (37333)] INFO : Enabling the Request Sampler.
+[01/13/14 15:28:20 +0000 Toms-MacBook-Air.local (37333)] INFO : Environment: development
+[01/13/14 15:28:20 +0000 Toms-MacBook-Air.local (37333)] INFO : Dispatcher: webrick
+[01/13/14 15:28:20 +0000 Toms-MacBook-Air.local (37333)] INFO : Application: Ransom Art
+[01/13/14 15:28:20 +0000 Toms-MacBook-Air.local (37333)] INFO : Installing Net instrumentation
+[01/13/14 15:28:20 +0000 Toms-MacBook-Air.local (37333)] INFO : Installing Sinatra instrumentation
+[01/13/14 15:28:20 +0000 Toms-MacBook-Air.local (37333)] INFO : Installing deferred Rack instrumentation
+[01/13/14 15:28:20 +0000 Toms-MacBook-Air.local (37333)] INFO : Finished instrumentation
+[01/13/14 15:28:20 +0000 Toms-MacBook-Air.local (37333)] INFO : Doing deferred dependency-detection before Rack startup
