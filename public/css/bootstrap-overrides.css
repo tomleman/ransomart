@@ -136,27 +136,13 @@ a > h3 {
 		display:none;
 	}
 
-	/*.navbar-toggle {
-		float:left;
-		right:30px;
-	}*/
-
 	.tel {
 		padding-left:18px;
 	}
 
-	/*.navbar-header {
-		position: relative;
-		bottom: 60px;
-	}*/
-
 }
 
 @media (max-width: 768px) {
-
-	/*.main-header > a > img {
-		padding-left:35px;
-	}*/
 
 	.main-header {
 		display:none;
@@ -182,12 +168,6 @@ a > h3 {
 		margin: inherit;
 	}
 
-	/*.tel {
-		float: left;
-		padding-left : 14px;
-		padding-top: 0;	
-	}*/
-
 	.tel {
 		display: none;
 	}
@@ -197,7 +177,11 @@ a > h3 {
 	}
 
 	.thumbnail > a > img {
-		max-height: 240px;
+		max-height: 230px;
+	}
+
+	.thumbnail > img {
+		max-height: 230px;
 	}
 
 }
