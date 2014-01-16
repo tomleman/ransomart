@@ -148,12 +148,10 @@ a > h3 {
 
 	.navbar-collapse {
 		padding: 0;
-		position: relative;
-		left: 51px;
 	}
 
 	.nav > li > a {
-		padding: 10px 15px;
+		padding: 10px 5px;
 	}
 
 }
